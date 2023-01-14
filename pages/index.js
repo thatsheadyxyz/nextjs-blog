@@ -26,8 +26,7 @@ export default function Home({ allPostsData }) {
         Find me on <a href="https://twitter.com/DeclanTweetz">Twitter</a> & <a href="https://github.com/thatsheadyxyz">Github</a>
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This blog was made using <a href='https://nextjs.org/' target="_blank">Next.Js</a>, a next-gen framework for React applications, and hosted on <a href="https://vercel.com/" target="_blank">Vercel</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
