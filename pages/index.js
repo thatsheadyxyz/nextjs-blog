@@ -44,7 +44,7 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
       <section>
-        <h2 className={utilStyles.headingLg}>Gallery</h2>
+        <h2 className={utilStyles.headingLg}>Midjourney Art</h2>
       </section>
     </Layout>
   );
